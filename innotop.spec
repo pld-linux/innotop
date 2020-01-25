@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	A MySQL and InnoDB monitor program
 Name:		innotop
 Version:	1.6.0
